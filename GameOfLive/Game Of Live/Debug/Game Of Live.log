@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\project Game of Live\Game Of Live\Game Of Live\myFunc.h(29,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\project Game of Live\Game Of Live\Game Of Live\myFunc.h(31,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\project Game of Live\Game Of Live\Game Of Live\Menu.h(28,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\project Game of Live\Game Of Live\Game Of Live\Menu.h(60,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\project Game of Live\Game Of Live\Game Of Live\Menu.h(76,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\project Game of Live\Game Of Live\Game Of Live\Menu.h(78,15): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\project Game of Live\Game Of Live\Game Of Live\Source.cpp(112,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\project Game of Live\Game Of Live\Game Of Live\Source.cpp(114,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\project Game of Live\Game Of Live\Game Of Live\Source.cpp(129,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\project Game of Live\Game Of Live\Game Of Live\Source.cpp(131,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\project Game of Live\Game Of Live\Game Of Live\Source.cpp(387,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Admin\Desktop\project Game of Live\Game Of Live\Game Of Live\Source.cpp(337): warning C4715: Game::startGame: значение возвращается не при всех путях выполнения
+  Game Of Live.vcxproj -> C:\Users\Admin\Desktop\project Game of Live\Game Of Live\Debug\Game Of Live.exe
